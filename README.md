@@ -28,5 +28,5 @@
 
 <p>LFA Project 2:</p>
 
-[![Watch the video](https://img.youtube.com/vi/1OLcAyWFuO8/0.jpg)](https://www.youtube.com/watch?v=1OLcAyWFuO8&ab_channel=Warden)
+[![Watch the video](https://img.youtube.com/vi/uPiDjF9-a_E/0.jpg)](https://www.youtube.com/watch?v=uPiDjF9-a_E&ab_channel=Warden)
 

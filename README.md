@@ -22,4 +22,11 @@
 [![Watch the video](https://img.youtube.com/vi/1OLcAyWFuO8/0.jpg)](https://www.youtube.com/watch?v=1OLcAyWFuO8&ab_channel=Warden)
 
 
+<p>LFA Project 3:</p>
+
+[![Watch the video](https://img.youtube.com/vi/H527g7ICaqM/0.jpg)](https://www.youtube.com/watch?v=H527g7ICaqM&ab_channel=Warden)
+
+<p>LFA Project 2:</p>
+
+[![Watch the video](https://img.youtube.com/vi/1OLcAyWFuO8/0.jpg)](https://www.youtube.com/watch?v=1OLcAyWFuO8&ab_channel=Warden)
 

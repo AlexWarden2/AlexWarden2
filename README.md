@@ -16,6 +16,14 @@
 
 
 <h1 align=center>Some of the recent projects I have worked on</h1>
-<p>LFA Project 2:</p>
-
+<p>LFA Project 4:</p>
 [![Watch the video](https://img.youtube.com/vi/1OLcAyWFuO8/0.jpg)](https://www.youtube.com/watch?v=1OLcAyWFuO8&ab_channel=Warden)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+<p>LFA Project 3:</p>
+[![Watch the video](https://img.youtube.com/vi/uPiDjF9-a_E/0.jpg)](https://www.youtube.com/watch?v=uPiDjF9-a_E)
+
+<p>LFA Project 2:</p>
+[![Watch the video](https://img.youtube.com/vi/1OLcAyWFuO8/0.jpg)](https://www.youtube.com/watch?v=1OLcAyWFuO8&ab_channel=Warden)
+

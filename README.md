@@ -20,7 +20,7 @@
 <ul>
   <div>
     <p>LFA Project 2:</p>
-    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+    <img align="center" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://www.youtube.com/watch?v=uPiDjF9-a_E)https://www.youtube.com/watch?v=uPiDjF9-a_E">
   </div>
 </ul>
 

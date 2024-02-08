@@ -17,10 +17,7 @@
 
 <h1 align=center>Some of the recent projects I have worked on</h1>
 
-<ul>
-  <div>
-    <p>LFA Project 2:</p>
-    <img align="center" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://www.youtube.com/watch?v=uPiDjF9-a_E)https://www.youtube.com/watch?v=uPiDjF9-a_E">
-  </div>
-</ul>
+
+<p>LFA Project 2:</p>
+[![Watch the video](https://www.youtube.com/watch?v=uPiDjF9-a_E/0.jpg)](https://www.youtube.com/watch?v=1OLcAyWFuO8&ab_channel=Warden)
 

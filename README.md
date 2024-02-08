@@ -17,7 +17,6 @@
 
 <h1 align=center>Some of the recent projects I have worked on</h1>
 
-<p>LFA Project 4:</p>
 [![Watch the video](https://img.youtube.com/vi/1OLcAyWFuO8/0.jpg)](https://www.youtube.com/watch?v=1OLcAyWFuO8&ab_channel=Warden)
 
 
